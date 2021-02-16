@@ -139,7 +139,7 @@ h2 {
   line-height: 1.5em;
   border-radius: 0.8em;
   padding: 0 3%;
-  height: 30%;
+  height: 40%;
   width: 25%;
 }
 
@@ -158,7 +158,7 @@ h2 {
   border-radius: 0.8em;
   padding: 0 3%;
   margin: auto;
-  height: 50%;
+  height: 60%;
   width: 80%;
 }
 
@@ -268,12 +268,12 @@ h2 {
 @media (min-width: 1200px) {
   #skill, #skill-2, #skill-3, #skill-4, #skill-5, #skill-6 {
     font-size: 1.75em;
-    height: 35%;
+    height: 40%;
   }
 
   #content {
     font-size: 2em;
-    height: 45%;
+    height: 50%;
 }
 
 @media print,
