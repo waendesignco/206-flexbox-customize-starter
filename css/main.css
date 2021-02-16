@@ -13,7 +13,7 @@
 html {
     color: #222;
     font-size: 1em;
-    line-height: 1.4;
+    line-height: 1.4em;
 }
 
 /*
@@ -137,7 +137,7 @@ h2 {
   font-weight: 300;
   font-size: 1em;
   line-height: 1.5em;
-  border-radius: 10px;
+  border-radius: 0.8em;
   padding: 0 3%;
   height: 30%;
   width: 25%;
@@ -155,7 +155,7 @@ h2 {
   font-weight: 200;
   font-size: 1.25em;
   line-height: 1.5em;
-  border-radius: 10px;
+  border-radius: 0.8em;
   padding: 0 3%;
   margin: auto;
   height: 50%;
@@ -254,7 +254,7 @@ h2 {
 /***** Tablets *****/
 @media (min-width: 768px) {
   #skill, #skill-2, #skill-3, #skill-4, #skill-5, #skill-6 {
-    font-size: 1.25em;
+    font-size: 1.5em;
     height: 20%;
   }
 
@@ -268,11 +268,12 @@ h2 {
 @media (min-width: 1200px) {
   #skill, #skill-2, #skill-3, #skill-4, #skill-5, #skill-6 {
     font-size: 1.75em;
+    height: 35%;
   }
 
   #content {
     font-size: 2em;
-    height: 20%;
+    height: 45%;
 }
 
 @media print,
